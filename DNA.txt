@@ -1,0 +1,9 @@
+Create a function called complement(sequence).
+create a dictionary called DNA2 that equals A,T,G,C.
+Then use a for loop to loop thru the dictionary DNA2.
+If sequence equals "A" use .replace() to replace "A" with "T"
+iterate the same if statement with an elif statement the corresponding letters.
+Then use a return statement to return sequence
+Make a comment that says #driver code and create a variable called user that 
+will take input from the user using input() to ask for the DNA sequence to change.
+last call your complement() funtion. 
